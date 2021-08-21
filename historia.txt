@@ -3,4 +3,4 @@ Esta es mi primera clase de git.
 Soy un programador empezando de cero tengo 33 años,
 viviendo en varios paises.
 
-Saludos!
+Saludos cordiales!
